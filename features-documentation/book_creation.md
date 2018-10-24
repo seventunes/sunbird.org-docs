@@ -8,7 +8,7 @@ allowSearch: true
 ---
 ## Overview
 
-Book is a collection of content units.	On Sunbird, books can be compiled or curated from school books or any book that conform to syllabi of state or central boards or any recognized institution or publication, in the said medium of instruction and language. Books may also be compiled separately without adhering to any syllabus, but forming a logical unit of content pieces for the given subject matter. 
+A book is a collection of content units. On Sunbird, books can be compiled or curated from school books or any book that conforms to syllabi of state or central boards or any recognized institution or publication, in the said medium of instruction and language. Books may also be compiled separately without adhering to any syllabus, but forming a logical unit of content pieces for the given subject matter. 
 
 ## Prerequisites
 <table>
@@ -81,6 +81,7 @@ You can add various elements in the book like units or chapters, heading details
       <br>&emsp;c) <b>Subject</b> 
       <br>&emsp;d) <b>Medium</b> 
       <br>&emsp;e) <b>Year</b> 
+      <br> Note: Based on the selected <b>Class</b>, drop-down values for other fields (such as curriculum, subject) gets updated accordingly.
       <br>7. Select <b>Topic</b>
       <br><b>Note</b>: For details, refer <a href="features-documentation/topic_tree" target="_blank">Adding Topics</a>
       <br>8. Enter <b>Publisher</b> details 
@@ -88,7 +89,8 @@ You can add various elements in the book like units or chapters, heading details
       <br>10. Select <b>Audience</b> 
       <br>11. Enter the <b>DIAL Code</b> 
       <br>12. Click <b>Save</b> on the header to save the details
-      <br>13. Click <b>Cancel</b> to go back to the previous screen
+      <br>13. Click <b>Cancel</b> to go back to the previous screen <br>
+      <b>Note</b>: When metadata is updated while creating content, the displayed content suggestions panel for adding resource also get updated accordingly.
     </td>
     <td><img src="features-documentation/images/book/book_metadata1.png"></td>
   </tr>
@@ -105,7 +107,7 @@ You can add various elements in the book like units or chapters, heading details
       <td>To start adding heading details in a unit or chapter 
       <br>1. Enter <b>Name</b>. This is the chapter/unit name as in the physical textbook  
       <br>2. Enter <b>Description</b> 
-      <br>3. Select the <b>Concepts</b> associated with the heading. Refer <a href="features-documentation/concept_selector" target="_blank">Concept Selector</a>
+      <br>3. Select the <b>Concepts</b> associated with the heading. For more information, refer to the <a href="features-documentation/concept_selector" target="_blank">Concept Selector</a> section.
       <br>4. Enter <b>Keywords</b> 
       <br>5. Enter the <b>DIAL code</b> 
         <br><b>Note:</b> DIAL code is used to link other digital content to the book. The list of DIAL codes associated with the book is provided to you by the organization administrator
@@ -131,7 +133,7 @@ You can add various elements in the book like units or chapters, heading details
     <td>  </td>
   </tr>
   <tr>
-    <td>2. Incorrect code displays ❌ icon 
+    <td>2. In case of entering an incorrect code, it displays ❌ icon
       </td>
       <td><img src="features-documentation/images/book/dial_code2.png"></td> 
     <td> </td>
@@ -150,7 +152,7 @@ You can add various elements in the book like units or chapters, heading details
 You can see <b>Table of Content</b> tree in the left pane to navigate content compiled for a collection, textbook, course or lesson plan. You can manipulate the tree using either: 
 <br>&emsp;a) The burger menu associated with a tree node 
 <br>&emsp;b) Right-click options associated with a tree node, OR 
-<br>&emsp;c) Keyboard shortcuts <br>For details on manipulating the tree and adding content, refer <a href="features-documentation/treestructure_toc" target="_blank">Exploring ToC Structure</a>
+<br>&emsp;c) Keyboard shortcuts <br>For details on manipulating the tree and adding content, refer to <a href="features-documentation/treestructure_toc" target="_blank">Exploring ToC Structure</a>
   
 ### Deleting Content 
 
@@ -180,7 +182,7 @@ You can see <b>Table of Content</b> tree in the left pane to navigate content co
     <td><img src="features-documentation/images/book/book_drag_content.png"></td>
   </tr>
   <tr>
-    <td>1. Click the upward arrow to collapse the table of contents. Click the same arrow to expand collapsed table of contents
+    <td>1. Click the upward arrow to collapse the table of contents. Click the same arrow to expand collapse table of contents
      </td>
     <td><img src="features-documentation/images/book/book_toc.png"></td>
   </tr>  
@@ -196,7 +198,7 @@ You can see <b>Table of Content</b> tree in the left pane to navigate content co
   <tr>
     <td>A book must be reviewed before it is published
       <br>1. Click <b>Save</b> on the header to save the book 
-      <br>2. Click <b>Send for review</b> to send the created book for review. Before sending for review, you can share the content to a limited audience. To know more about Limited Sharing, refer <a href="features-documentation/limitedpublishnshare" target="_blank">Limited Publishing and Sharing</a>
+      <br>2. Click <b>Send for review</b> to send the created book for review. Before sending for review, you can share the content with a limited audience. To know more about Limited Sharing, refer <a href="features-documentation/limitedpublishnshare" target="_blank">Limited Publishing and Sharing</a>
     </td>
     <td><img src="features-documentation/images/book_sendforreview.png"></td>
   </tr>    
@@ -212,7 +214,7 @@ You can see <b>Table of Content</b> tree in the left pane to navigate content co
   <tr>
     <td>The What’s New feature informs you of the product features added or enhanced since the last product release 
       <br>1. Click on the <b>What's New</b> icon to view concise information about new product functionality 
-      <br><b>Note</b>: The What's New icon is red before you view it for the first time. The icon turns grey after you view the information, until the next product version
+      <br><b>Note</b>: The What's New icon is red before you view it for the first time. The icon turns grey after you see the information until the next product version generated.
     </td>
     <td><img src="features-documentation/images/book/book_whats_new1.png"></td>
   </tr>
