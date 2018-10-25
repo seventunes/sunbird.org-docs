@@ -578,4 +578,8 @@ All details associated with the resource must be updated before sending the reso
 ## Limitations
 
   - The WYSIWYG editor works best only with [NotoSans fonts](https://fonts.google.com/specimen/Noto+Sans)
+<<<<<<< HEAD
   - The bullet point size remains the same even if the font size of the text is altered
+=======
+  - In Rich Text, the bullet point size remains the same even if the font size of text is changed
+>>>>>>> 3cf3b8761600feb7f5da307aba1ae28696c2e0b5
